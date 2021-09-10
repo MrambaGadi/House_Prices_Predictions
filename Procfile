@@ -1,1 +1,1 @@
-web: gunicorn app:reapp
+web: sh setup.sh && streamlit run app.py
