@@ -150,7 +150,3 @@ hide_streamlit_style = """
             </style>
             """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
-
-
-
-#/Users/sahityasehgal/Documents/Snagit/Autosaved Captures.localized/2020-08-23_18-50-01.mp4
